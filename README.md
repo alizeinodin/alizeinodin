@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/ali-zeinodin/">
     <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-<a href="https://t.me/ali_zne">
+<a href="https://t.me/alizeinodin">
     <img height="40" src="https://static.cdnlogo.com/logos/t/57/telegram-2019.svg"/>
 </a>
 <a href="https://www.instagram.com/ali.zne/">
