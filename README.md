@@ -6,12 +6,11 @@
 **alizeinodin/alizeinodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on **my projects**
-- 🌱 I’m currently learning **laravel and django**
-- 👯 I’m looking to collaborate on **fokol app**
-- 💬 Ask me about **PHP, C++, C, Python**
+- 🔭 I’m currently working in **MCI** company
+- 🌱 I’m a senior software engineer who commonly works with **Laravel**
+- 💬 Ask me about **PHP, C++, C, GoLang**
 - 📫 How to reach me: **alizeinodin79@gmail.com**
-- ❤️ I love **Backend Development, Database, PHP, Laravel, Django, SQL**
+- ❤️ I love **FOSS, Backend Development, Database, PHP, Laravel, SQL**
 
 ### Languages and Tools:
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -25,6 +24,6 @@
 <a href="https://t.me/alizeinodin">
     <img height="40" src="https://static.cdnlogo.com/logos/t/57/telegram-2019.svg"/>
 </a>
-<a href="https://www.instagram.com/ali.zne/">
+<a href="https://www.instagram.com/alizeinodin/">
     <img height="40" src="https://static.cdnlogo.com/logos/i/93/instagram.svg"/>
 </a>
