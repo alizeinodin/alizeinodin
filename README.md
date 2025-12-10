@@ -1,9 +1,7 @@
 # <p align="center"> Hi there 👋, i am Ali </p>
 ### <p align="center"> I am a software engineer and backend developer </p>
 
-<p align="center">
-    ![Ali GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alizeinodin&show_icons=true&theme=dark)
-</p>
+![Ali GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alizeinodin&show_icons=true&theme=dark)
 <!--
 **alizeinodin/alizeinodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
