@@ -46,5 +46,6 @@ I design and ship APIs and microservices with a focus on clean architecture, **T
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--zeinodin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zeinodin)
+[![Website](https://img.shields.io/badge/Website-alizeinodin.ir-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://alizeinodin.ir)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinodin&show_icons=true&hide_border=true&count_private=true)
