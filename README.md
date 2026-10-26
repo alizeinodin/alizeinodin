@@ -1,29 +1,50 @@
-# <p align="center"> Hi there 👋, i am Ali </p>
-### <p align="center"> I am a software engineer and backend developer </p>
+# Hi, I'm Ali Zeinodin 👋
 
-![Ali GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alizeinodin&show_icons=true&theme=dark)
-<!--
-**alizeinodin/alizeinodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Software Engineer & Backend Developer** — about 6 years of experience building backend systems with **PHP and Laravel**.
+I design and ship APIs and microservices with a focus on clean architecture, **TDD**, and **Domain-Driven Design**.
 
-- 🔭 I’m currently working in **MCI** company
-- 🌱 I’m a senior software engineer who commonly works with **Laravel**
-- 💬 Ask me about **PHP, C++, C, GoLang**
-- 📫 How to reach me: **alizeinodin79@gmail.com**
-- ❤️ I love **FOSS, Backend Development, Database, PHP, CPP, Laravel, SQL**
+🌍 **Open to remote opportunities** (EU / US time zones welcome)
 
-### Languages and Tools:
-<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/> <img height=38 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alizeinodin&theme=merko&layout=compact"/>
+### 💼 Experience
 
-#### Connect with me:
-<a href="https://www.linkedin.com/in/ali-zeinodin/">
-    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-<a href="https://t.me/alizeinodin">
-    <img height="40" src="https://static.cdnlogo.com/logos/t/57/telegram-2019.svg"/>
-</a>
-<a href="https://www.instagram.com/alizeinodin/">
-    <img height="40" src="https://static.cdnlogo.com/logos/i/93/instagram.svg"/>
-</a>
+- **Senior Backend Developer — MCI (Hamrahe Aval) projects** · *Mar 2024 – present* — SOAR and VMS
+- Previously: **LanGeek** · **National Elites Foundation**
+
+### 🎓 Education & achievements
+
+- 🥇 **1st place, ICPC West Iran regional contest**
+- **M.Sc. Software Engineering** — Islamic Azad University, Science & Research Branch *(in progress)*
+- **B.Sc. Computer Engineering** — Bu-Ali Sina University · ranked **1st of 55**
+
+### 🛠️ Skills
+
+| Level | Technologies |
+|-------|--------------|
+| **Advanced** | PHP · Laravel · MySQL · Vue.js · REST API design |
+| **Intermediate** | Redis · Docker · Linux · Git · C++ · JavaScript |
+| **Familiar** | Go · Python |
+
+**Practices:** microservices · TDD · DDD · repository/service patterns · queues & background jobs
+
+---
+
+### 📌 Featured projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**SMSApi**](https://github.com/alizeinodin/SMSApi) | Laravel package unifying Iranian SMS providers and messengers (Telegram, Discord, Bale, …) behind one API | PHP · Laravel |
+| [**WoodenDoor**](https://github.com/alizeinodin/woodenDoor) | Job marketplace API — companies, job ads, career blog, role-based auth ([demo](https://cafejoon.ir/jobvision/)) | Laravel · Sanctum · MySQL |
+| [**Karlearn**](https://github.com/alizeinodin/karlearn) | Online learning platform (LMS) with a React SPA served by Laravel ([demo](https://cafejoon.ir/karlearn)) | Laravel · React |
+| [**Homa**](https://github.com/alizeinodin/homa) | Lightweight Twitter (X) clone ([demo](https://cafejoon.ir/twitter)) | Laravel · Vue · Inertia.js |
+| [**Movie Recommender System**](https://github.com/alizeinodin/movie-recommender-system) | Neural Collaborative Filtering recommender with a FastAPI ML service, Laravel API, and Nuxt frontend | Laravel · Python · Nuxt |
+| [**Gold Exchange API**](https://github.com/alizeinodin/gold) | Gold trading API with a queued order-matching engine and wallets | Laravel 12 · Queues |
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--zeinodin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zeinodin)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinodin&show_icons=true&hide_border=true&count_private=true)
